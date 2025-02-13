@@ -1,0 +1,1 @@
+print("Hello demekten yoruldum")
