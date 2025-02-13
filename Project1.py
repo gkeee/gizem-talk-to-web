@@ -1,1 +1,2 @@
-print("Hello demekten yoruldum")
+print("Hello")
+print("Hello I am Gizem")
